@@ -36,7 +36,7 @@
 │              UserFollowerModal.vue
 │              UserPosting.vue
 │              UserSummary.vue
-
+```
  
 # Install
 ```
